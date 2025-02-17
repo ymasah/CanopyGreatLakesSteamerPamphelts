@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: ymasah.github.io/CanopyGreatLakesSteamerPamphelts
+
+# Sitemaps
+Sitemap: ymasah.github.io/CanopyGreatLakesSteamerPamphelts/sitemap.xml
